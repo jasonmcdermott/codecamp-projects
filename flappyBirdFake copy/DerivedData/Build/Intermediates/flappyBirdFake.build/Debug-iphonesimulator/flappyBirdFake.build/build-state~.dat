@@ -1,0 +1,577 @@
+TflappyBirdFake
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch flappyBirdFake/flappyBirdFake-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake normal i386
+cCopyStringsFile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings flappyBirdFake/en.lproj/InfoPlist.strings
+cCpResource flappyBirdFake/bling.wav DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav
+cCpResource flappyBirdFake/bird.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png
+cCpResource flappyBirdFake/playBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png
+cCpResource flappyBirdFake/bg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png
+cCpResource flappyBirdFake/gameOverBg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png
+cCpResource flappyBirdFake/replayBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png
+cCompileStoryboard /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard
+cCpResource flappyBirdFake/mitte.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png
+cCpResource flappyBirdFake/homeButton.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png
+cCpResource flappyBirdFake/oben.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png
+cCompileAssetCatalog /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005347499C00000000000003B4
+t1397180828
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534749A7000000000000019E
+t1397180839
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534749AA0000000000446820
+t1397180842
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534749AC000000000088D8C0
+t1397180844
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+c00000000534749B0000000000024D800
+t1397180848
+s2414592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534749B30000000001F1DE10
+t1397180851
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534749EB0000000000000ADC
+t1397180907
+s2780
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch
+t1397689136
+s116396
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o
+t1397689137
+s62408
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o
+t1397689137
+s49688
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o
+t1397689137
+s79760
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o
+t1397689137
+s48136
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/flappyBirdFake.LinkFileList
+c00000000534F0B300000000000000366
+t1397689136
+s870
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o
+t1397689137
+s3572
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_dependencies.txt
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_generated_info.plist
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/Base.lproj/Main.storyboardc
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png
+t2
+s0
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m
+c00000000530CC23700000000000007E3
+t1393345079
+s2019
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard
+c00000000530CD30E0000000000000700
+t1393349390
+s1792
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets
+c00000000534A79E700000000000000AA
+t1397389799
+s170
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m
+c0000000053245C9C00000000000005F2
+t1394891932
+s1522
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m
+c0000000053245F4200000000000021F4
+t1394892610
+s8692
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m
+c0000000053245A8D0000000000000489
+t1394891405
+s1161
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bg.png
+c00000000530CCDB10000000000004917
+t1393348017
+s18711
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bird.png
+c00000000530CC4FF000000000000027E
+t1393345791
+s638
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bling.wav
+c00000000530DC0E1000000000004B62E
+t1393410273
+s308782
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/en.lproj/InfoPlist.strings
+c00000000530CC237000000000000002D
+t1393345079
+s45
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/flappyBirdFake-Prefix.pch
+c00000000530CC2370000000000000158
+t1393345079
+s344
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/gameOverBg.png
+c000000005324362300000000000005C1
+t1394882083
+s1473
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/homeButton.png
+c00000000532459CD000000000000188E
+t1394891213
+s6286
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m
+c00000000530CC237000000000000015D
+t1393345079
+s349
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/mitte.png
+c00000000530D02E40000000000000841
+t1393361636
+s2113
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/oben.png
+c00000000530D02CF0000000000000F81
+t1393361615
+s3969
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/playBtn.png
+c00000000532435F100000000000009B9
+t1394882033
+s2489
+
+N/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/replayBtn.png
+c000000005324563C0000000000000907
+t1394890300
+s2311
+
+CBuild AST from /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m
+r0
+
+CBuild AST from /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m
+r0
+
+CBuild AST from /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m
+r0
+
+CBuild AST from /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m
+r0
+
+CBuild AST from /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdfdc73b042ffb841^747e7ab042ffb841^---0#1#1#--18"Check dependencies36"B8B394A2-8856-4F38-AEF1-C4CC9EDF6651-
+
+CCompileAssetCatalog /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets
+s419381937.293846
+e419381938.667749
+r1
+xCompileAssetCatalog
+x/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets
+o2014-04-17 08:58:58.431 IBCocoaTouchImageCatalogTool[28650:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/LaunchImage-700-568h@2x.png
+o/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/Assets.car
+o/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app flappyBirdFake/Images.xcassets118"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app flappyBirdFake/Images.xcassets1b4c4bb142ffb841^41f2aab242ffb841^-710"2014-04-17 08:58:58.431 IBCocoaTouchImageCatalogTool[28650:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/LaunchImage-700-568h@2x.png/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/Assets.car/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets/0000000000000000^1277"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app flappyBirdFake/Images.xcassets    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Images.xcassets36"17ABEE61-8D19-4FE8-AD7E-E31D6E1E8C69-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381936.709279
+e419381937.084429
+r1
+xCompileC
+xDerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m235"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o flappyBirdFake/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerddb4b5b042ffb841^469915b142ffb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m0000000000000000^4098"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o flappyBirdFake/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.dia -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.m -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o36"E5C8C46B-1CAB-4B32-A962-A2D4E8748554-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381936.707862
+e419381937.134854
+r1
+xCompileC
+xDerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.h
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m231"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o flappyBirdFake/MenuScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf4fb5b042ffb841^5d8722b142ffb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m0000000000000000^4086"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o flappyBirdFake/MenuScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.d --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.dia -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.m -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o36"91E2348A-725A-43D0-8BDA-2E24D0445B95-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381936.707681
+e419381937.098242
+r1
+xCompileC
+xDerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.h
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m227"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o flappyBirdFake/MyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc93db5b042ffb841^b72619b142ffb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m0000000000000000^4074"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o flappyBirdFake/MyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.d --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.dia -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.m -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o36"75E4EF60-3FEC-48EC-938E-D6E96A2AB7B8-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381936.708208
+e419381937.095518
+r1
+xCompileC
+xDerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.h
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MyScene.h
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/MenuScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m241"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o flappyBirdFake/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d7cb5b042ffb841^957c18b142ffb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m0000000000000000^4116"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o flappyBirdFake/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.dia -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/ViewController.m -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o36"963230A3-7F15-4F26-A412-4150670F8F4E-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381937.084683
+e419381937.132127
+r1
+xCompileC
+xDerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m221"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o flappyBirdFake/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler92cd15b142ffb841^0fd421b142ffb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m0000000000000000^4056"CompileC DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o flappyBirdFake/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.dia -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/main.m -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o36"55311E5E-8C04-4888-B616-34DA9EA46439-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCompileStoryboard /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard
+s419381937.290815
+e419381939.005565
+r1
+xCompileStoryboard
+x/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard
+o2014-04-17 08:58:57.866 Interface Builder Cocoa Touch Tool[28646:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard flappyBirdFake/Base.lproj/Main.storyboard59"CompileStoryboard flappyBirdFake/Base.lproj/Main.storyboard81924ab142ffb841^267201b342ffb841^-229"2014-04-17 08:58:57.866 Interface Builder Cocoa Touch Tool[28646:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard0000000000000000^893"CompileStoryboard flappyBirdFake/Base.lproj/Main.storyboard    cd /Users/jman/Developer/codecamp/flappyBirdFake    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/Base.lproj/Main.storyboardc /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/Base.lproj/Main.storyboard36"466CDB49-CE92-429D-9FDA-9B2B08CD9513-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCopyStringsFile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings flappyBirdFake/en.lproj/InfoPlist.strings
+s419381937.285254
+e419381937.290255
+r1
+xCopyStringsFile
+x/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings
+xflappyBirdFake/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy flappyBirdFake/en.lproj/InfoPlist.strings152"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings flappyBirdFake/en.lproj/InfoPlist.strings1e1b49b142ffb841^be4e4ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/en.lproj/InfoPlist.strings0000000000000000^659"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj/InfoPlist.strings flappyBirdFake/en.lproj/InfoPlist.strings    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/en.lproj -- flappyBirdFake/en.lproj/InfoPlist.strings36"0E89B852-01C0-4E68-8C2F-1EA36BDC9612-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/bg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png
+s419381937.289347
+e419381937.290848
+r1
+xCpResource
+xflappyBirdFake/bg.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png107"CpResource flappyBirdFake/bg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png7d1f4ab142ffb841^ab754ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png0000000d66c0f041^650"CpResource flappyBirdFake/bg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bg.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bg.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"20B8390B-68EF-47E5-B799-4C936FE070E3-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/bird.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png
+s419381937.285631
+e419381937.289130
+r1
+xCpResource
+xflappyBirdFake/bird.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png111"CpResource flappyBirdFake/bird.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png3c2f49b142ffb841^700b4ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png0000000d66c0f041^656"CpResource flappyBirdFake/bird.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bird.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bird.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"B352CBDC-1D58-429F-91C1-B479D7BB3DE2-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/bling.wav DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav
+s419381937.285377
+e419381937.291173
+r1
+xCpResource
+xflappyBirdFake/bling.wav
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav113"CpResource flappyBirdFake/bling.wav DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wave61f49b142ffb841^6e8b4ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav0000000d66c0f041^659"CpResource flappyBirdFake/bling.wav DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/bling.wav    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/bling.wav /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"4D1F67FB-5ED9-43D0-B293-A1329996FFE5-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/gameOverBg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png
+s419381937.289485
+e419381937.290634
+r1
+xCpResource
+xflappyBirdFake/gameOverBg.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png123"CpResource flappyBirdFake/gameOverBg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png512d4ab142ffb841^84674ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png0000000d66c0f041^674"CpResource flappyBirdFake/gameOverBg.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/gameOverBg.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/gameOverBg.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"2B0AA731-EF68-46F5-BD5E-2FA3A7121E17-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/homeButton.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png
+s419381937.291446
+e419381937.293197
+r1
+xCpResource
+xflappyBirdFake/homeButton.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png123"CpResource flappyBirdFake/homeButton.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png14af4ab142ffb841^ca184bb142ffb841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png0000000d66c0f041^674"CpResource flappyBirdFake/homeButton.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/homeButton.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/homeButton.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"C77053BE-4D7B-4DF7-B26D-1003996EC29A-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/mitte.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png
+s419381937.291197
+e419381937.292800
+r1
+xCpResource
+xflappyBirdFake/mitte.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png113"CpResource flappyBirdFake/mitte.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png45a04ab142ffb841^f9f64ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png0000000d66c0f041^659"CpResource flappyBirdFake/mitte.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/mitte.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/mitte.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"F3EA0227-195B-4C44-886B-9DC3100C7806-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/oben.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png
+s419381937.292939
+e419381937.294211
+r1
+xCpResource
+xflappyBirdFake/oben.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png111"CpResource flappyBirdFake/oben.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.pngdd0c4bb142ffb841^bd554bb142ffb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png0000000d66c0f041^656"CpResource flappyBirdFake/oben.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/oben.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/oben.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"B2007817-1FC4-42FF-AAE4-29D2BCF083B5-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/playBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png
+s419381937.286721
+e419381937.289115
+r1
+xCpResource
+xflappyBirdFake/playBtn.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png117"CpResource flappyBirdFake/playBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.pngee7649b142ffb841^c5034ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png0000000d66c0f041^665"CpResource flappyBirdFake/playBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/playBtn.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/playBtn.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"537A291B-9F62-4D4A-89C0-B9DDEA0B8277-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CCpResource flappyBirdFake/replayBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png
+s419381937.290422
+e419381937.292837
+r1
+xCpResource
+xflappyBirdFake/replayBtn.png
+xDerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png121"CpResource flappyBirdFake/replayBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png16694ab142ffb841^d7fa4ab142ffb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png0000000d66c0f041^671"CpResource flappyBirdFake/replayBtn.png DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/replayBtn.png    cd /Users/jman/Developer/codecamp/flappyBirdFake    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/replayBtn.png /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app36"4AC450C9-E2A5-4869-8A28-37BC04989F9D-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CGenerateDSYMFile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app.dSYM /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake
+r0
+
+CLd /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake normal i386
+s419381937.135653
+e419381937.284545
+r1
+xLd
+x/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake
+xnormal
+xi386
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/flappyBirdFake.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MyScene.o
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/MenuScene.o
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/ViewController.o
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/AppDelegate.o
+d/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake97"Ld DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake normal i386cdca22b142ffb841^30d948b142ffb841^---0#0#1#--1594"Ld DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake normal i386    cd /Users/jman/Developer/codecamp/flappyBirdFake    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/flappyBirdFake.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework SpriteKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/Objects-normal/i386/flappyBirdFake_dependency_info.dat -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/flappyBirdFake36"AB10D5C9-0190-4A07-A2D6-27FBFD0E769E-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CProcessInfoPlistFile /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app/Info.plist /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/flappyBirdFake-Info.plist
+r0
+
+CProcessPCH /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch flappyBirdFake/flappyBirdFake-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419381936.482788
+e419381936.707095
+r1
+xProcessPCH
+x/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch
+xflappyBirdFake/flappyBirdFake-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/flappyBirdFake-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile flappyBirdFake/flappyBirdFake-Prefix.pch251"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch flappyBirdFake/flappyBirdFake-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbc777cb042ffb841^c504b5b042ffb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/flappyBirdFake-Prefix.pch0000000000000000^3952"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch flappyBirdFake/flappyBirdFake-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jman/Developer/codecamp/flappyBirdFake    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-generated-files.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-own-target-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-all-target-headers.hmap -iquote /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/flappyBirdFake-project-headers.hmap -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources/i386 -I/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/flappyBirdFake.build/Debug-iphonesimulator/flappyBirdFake.build/DerivedSources -F/Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.d -c /Users/jman/Developer/codecamp/flappyBirdFake/flappyBirdFake/flappyBirdFake-Prefix.pch -o /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Intermediates/PrecompiledHeaders/flappyBirdFake-Prefix-edhqayrqdflpnlebkzjsndjummop/flappyBirdFake-Prefix.pch.pch36"15AEEB56-FA11-4E7B-80B4-123B649565E9-
+bC30F5442-AC5E-495F-B69C-EA3EF98B8B4D
+
+CProcessPCH /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/flappyBirdFake/Index/PrecompiledHeaders/flappyBirdFake-Prefix-erumfpwkaaywmqgjztoqesqubqoi_ast/flappyBirdFake-Prefix.pch.pch flappyBirdFake/flappyBirdFake-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jman/Developer/codecamp/flappyBirdFake/DerivedData/Build/Products/Debug-iphonesimulator/flappyBirdFake.app
+r0
+
