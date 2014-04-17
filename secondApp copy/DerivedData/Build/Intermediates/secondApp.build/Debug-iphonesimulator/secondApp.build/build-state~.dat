@@ -1,0 +1,367 @@
+TsecondApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch secondApp/secondApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp normal i386
+cCopyStringsFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings secondApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Images.xcassets
+cProcessInfoPlistFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/secondApp-Info.plist
+cGenerateDSYMFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp
+cTouch /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005347499C00000000000003B4
+t1397180828
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534749A7000000000000019E
+t1397180839
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534749AA0000000000446820
+t1397180842
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534749AC000000000088D8C0
+t1397180844
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534749B30000000001F1DE10
+t1397180851
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534749EB0000000000000ADC
+t1397180907
+s2780
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch
+t1397457936
+s116516
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o
+t1397457936
+s62424
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o
+t1397457936
+s61140
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o
+t1397457936
+s3580
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/secondApp.LinkFileList
+c00000000534B840F0000000000000203
+t1397457935
+s515
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_dependencies.txt
+t1397457937
+s460
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_generated_info.plist
+t1397457937
+s525
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app
+t1397457937
+s306
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM
+t2
+s0
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Base.lproj/Main.storyboardc
+t1397457937
+s170
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist
+t1397457937
+s1019
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/PkgInfo
+t1397457937
+s8
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings
+t1397457936
+s42
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp
+t1397457936
+s27912
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.m
+c0000000052DC6E8100000000000007DC
+t1390177921
+s2012
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/Base.lproj/Main.storyboard
+c0000000052DD98120000000000001723
+t1390254098
+s5923
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/Images.xcassets
+c00000000534A79E70000000000000088
+t1397389799
+s136
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/ViewController.m
+c000000005346708C0000000000000899
+t1397125260
+s2201
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/en.lproj/InfoPlist.strings
+c0000000052DC6E81000000000000002D
+t1390177921
+s45
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/main.m
+c0000000052DC6E810000000000000156
+t1390177921
+s342
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/secondApp-Info.plist
+c0000000052DC6E8100000000000004C9
+t1390177921
+s1225
+
+N/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/secondApp-Prefix.pch
+c0000000052DC6E810000000000000158
+t1390177921
+s344
+
+CBuild AST from /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/ViewController.m
+r0
+
+CBuild AST from /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesccd04c8fbbfbb841^9db9538fbbfbb841^---0#1#1#--18"Check dependencies36"44DF2418-013F-4309-ABF9-CAA2FE0A514B-
+
+CCompileAssetCatalog /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Images.xcassets
+s419150736.504700
+e419150737.487483
+r1
+xCompileAssetCatalog
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/Images.xcassets
+o2014-04-14 16:45:37.404 IBCocoaTouchImageCatalogTool[7689:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/LaunchImage-700-568h@2x.png
+o/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Assets.car
+o/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app secondApp/Images.xcassets108"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app secondApp/Images.xcassets0e498190bbfbb841^25cc7c91bbfbb841^-710"2014-04-14 16:45:37.404 IBCocoaTouchImageCatalogTool[7689:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/LaunchImage-700-568h@2x.png/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Assets.car/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/Images.xcassets/0000000000000000^1278"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app secondApp/Images.xcassets    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Images.xcassets36"48FC8694-A0B5-4C68-BB5F-78352797EEDA-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150736.313515
+e419150736.392314
+r1
+xCompileC
+xDerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.m
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.m220"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o secondApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a635090bbfbb841^8b6f6490bbfbb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/AppDelegate.m0000000000000000^4079"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o secondApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-generated-files.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-own-target-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-all-target-headers.hmap -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-project-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources/i386 -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources -F/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/AppDelegate.m -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o36"E15C0250-9BAF-406F-8B6C-558F44D8BC30-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150736.313313
+e419150736.393774
+r1
+xCompileC
+xDerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/ViewController.m
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/ViewController.m226"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o secondApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler734a5090bbfbb841^0ed96490bbfbb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/ViewController.m0000000000000000^4097"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o secondApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-generated-files.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-own-target-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-all-target-headers.hmap -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-project-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources/i386 -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources -F/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.dia -c /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/ViewController.m -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o36"49A81E71-F333-4A50-B962-3FD36DDBB990-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CCompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150736.313834
+e419150736.357191
+r1
+xCompileC
+xDerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/main.m
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/main.m206"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o secondApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf9695090bbfbb841^5c735b90bbfbb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/main.m0000000000000000^4037"CompileC DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o secondApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-generated-files.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-own-target-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-all-target-headers.hmap -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-project-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources/i386 -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources -F/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch -MMD -MT dependencies -MF /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.dia -c /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/main.m -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o36"584B92B3-BBB7-402E-8E41-C5C33F2A140D-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CCompileStoryboard /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Base.lproj/Main.storyboard
+s419150736.504075
+e419150737.900665
+r1
+xCompileStoryboard
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/Base.lproj/Main.storyboard
+o2014-04-14 16:45:37.479 Interface Builder Cocoa Touch Tool[7688:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-04-14 16:45:37.823 Interface Builder Cocoa Touch Tool[7690:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard secondApp/Base.lproj/Main.storyboard54"CompileStoryboard secondApp/Base.lproj/Main.storyboardd9268190bbfbb841^d592e691bbfbb841^-456"2014-04-14 16:45:37.479 Interface Builder Cocoa Touch Tool[7688:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-04-14 16:45:37.823 Interface Builder Cocoa Touch Tool[7690:303] CFPreferences: user home directory at file:///Users/jman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@98"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/Base.lproj/Main.storyboard0000000000000000^903"CompileStoryboard secondApp/Base.lproj/Main.storyboard    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Base.lproj/Main.storyboardc /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/Base.lproj/Main.storyboard36"85DF48AE-1414-42A9-8394-B3B6C8AC7F51-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CCopyStringsFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings secondApp/en.lproj/InfoPlist.strings
+s419150736.503940
+e419150736.505107
+r1
+xCopyStringsFile
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings
+xsecondApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy secondApp/en.lproj/InfoPlist.strings142"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings secondApp/en.lproj/InfoPlist.strings2c108190bbfbb841^43548190bbfbb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/en.lproj/InfoPlist.strings0000000000000000^656"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj/InfoPlist.strings secondApp/en.lproj/InfoPlist.strings    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/en.lproj -- secondApp/en.lproj/InfoPlist.strings36"6D552B68-A7B5-46B3-9014-48282299BB8F-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CGenerateDSYMFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp
+s419150737.903294
+e419150737.928242
+r1
+xGenerateDSYMFile
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generate /Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM157"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondAppa647e791bbfbb841^f4a7ed91bbfbb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM0000000d2e84f041^767"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app.dSYM36"150C2222-A0A5-4760-84C6-CE87000A461F-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CLd /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp normal i386
+s419150736.394474
+e419150736.502963
+r1
+xLd
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp
+xnormal
+xi386
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/secondApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/ViewController.o
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp87"Ld DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp normal i3864f086590bbfbb841^5dc38090bbfbb841^---0#0#1#--1572"Ld DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp normal i386    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/secondApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/Objects-normal/i386/secondApp_dependency_info.dat -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/secondApp36"19B6BB25-D995-4ED5-ACB7-DE3B546C8106-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CProcessInfoPlistFile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/secondApp-Info.plist
+s419150737.901441
+e419150737.902939
+r1
+xProcessInfoPlistFile
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/secondApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/secondApp-Info.plist125"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist secondApp/secondApp-Info.plist56d6e691bbfbb841^4128e791bbfbb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/secondApp-Info.plist0000000000000000^1024"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist secondApp/secondApp-Info.plist    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/secondApp-Info.plist -genpkginfo /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/assetcatalog_generated_info.plist -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app/Info.plist36"69FAFD6F-EEBB-4AEF-9864-579347B86DF6-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CProcessPCH /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch secondApp/secondApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150735.329230
+e419150736.312787
+r1
+xProcessPCH
+x/Users/jman/Downloads/CodeCamp_resources 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch
+xsecondApp/secondApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jman/Downloads/CodeCamp_resources 2/secondApp/secondApp/secondApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile secondApp/secondApp-Prefix.pch231"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch secondApp/secondApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0d8c548fbbfbb841^ba135090bbfbb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/jman/Downloads/CodeCamp_resources%202/secondApp/secondApp/secondApp-Prefix.pch0000000000000000^3925"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch secondApp/secondApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jman/Downloads/CodeCamp_resources 2/secondApp"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-generated-files.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-own-target-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-all-target-headers.hmap -iquote /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/secondApp-project-headers.hmap -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources/i386 -I/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/secondApp.build/Debug-iphonesimulator/secondApp.build/DerivedSources -F/Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.d -c /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/secondApp/secondApp-Prefix.pch -o /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Intermediates/PrecompiledHeaders/secondApp-Prefix-esvbdrdgvggcpbfycldcgmjmoehg/secondApp-Prefix.pch.pch36"0117B558-2DBB-45A2-8734-BD9CC276392D-
+b82385933-BD99-480F-BEA4-9CDE8CDB374E
+
+CProcessPCH /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/secondApp/Index/PrecompiledHeaders/secondApp-Prefix-ekbttbzrskvbisacojhiblqpjjmj_ast/secondApp-Prefix.pch.pch secondApp/secondApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jman/Downloads/CodeCamp_resources\ 2/secondApp/DerivedData/Build/Products/Debug-iphonesimulator/secondApp.app
+r0
+
