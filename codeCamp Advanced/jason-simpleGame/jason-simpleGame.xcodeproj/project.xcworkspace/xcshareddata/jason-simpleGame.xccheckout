@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C8AD875E-0484-4119-AF7E-23E247179ADE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>jason-simpleGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>835F03B5-BEE6-493D-9FF8-CA71035232E6</key>
+		<string>https://github.com/jasonmcdermott/codecamp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>codeCamp Advanced/jason-simpleGame/jason-simpleGame.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>835F03B5-BEE6-493D-9FF8-CA71035232E6</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jasonmcdermott/codecamp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>835F03B5-BEE6-493D-9FF8-CA71035232E6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>835F03B5-BEE6-493D-9FF8-CA71035232E6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>codecamp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
