@@ -1,16 +1,9 @@
-//
-//  CCViewController.m
-//  jason-simpleGame
-//
-//  Created by coding on 2/07/2014.
-//  Copyright (c) 2014 codeCamp. All rights reserved.
-//
 
 #import "CCViewController.h"
 
 @interface CCViewController ()
 {
-    int score, lives, highScore, timeLeft;
+    int score,lives,highScore,timeLeft;
     BOOL playing;
 }
 
@@ -32,24 +25,27 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    // do any additional...
     
-    UITapGestureRecognizer *gestureRecogniser = [[UITapGestureRecognizer alloc]
-                                                 initWithTarget:self
-                                                 action:@selector(handleTap:)];
-    gestureRecogniser.numberOfTapsRequired = 1;
-    [self.view addGestureRecognizer:gestureRecogniser];
-    
-    [self resetGame];
+UITapGestureRecognizer *gestureRecogniser =
+[[UITapGestureRecognizer alloc] initWithTarget:self
+                                        action:@selector(handleTap:)];
+
+gestureRecogniser.numberOfTapsRequired = 1;
+[self.view addGestureRecognizer:gestureRecogniser];
+
+[self resetGame];
     
     self.hitMeButton.hidden = YES;
     self.loseLifeButton.hidden = YES;
     self.addTimeButton.hidden = YES;
+    playing = NO;
     
     highScore = [[NSUserDefaults standardUserDefaults]
                  integerForKey:@"highScore"];
-    playing = NO;
     
     [NSTimer scheduledTimerWithTimeInterval:2.0 target:self selector:@selector(showButton) userInfo:nil repeats:YES];
+    
     [NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(countDown) userInfo:nil repeats:YES];
     
     [self updateLabels];
@@ -102,7 +98,7 @@
             self.addTimeButton.hidden = FALSE;
         }
         
-        [NSTimer scheduledTimerWithTimeInterval:0.75
+        [NSTimer scheduledTimerWithTimeInterval:1.0
                                          target:self
                                        selector:@selector(hideButton)
                                        userInfo:nil
@@ -182,17 +178,16 @@
     self.addTimeButton.hidden = TRUE;
 }
 
-- (void)countDown
-{
-    if (playing) {
-        timeLeft --;
-        if (timeLeft == 0) {
-            [self endGame];
-        }
+- (IBAction)pressResetButton:(UIButton *)sender {
+    if (!playing) {
+        highScore = 0;
+        score = 0;
+        [[NSUserDefaults standardUserDefaults]
+         setObject:[NSNumber numberWithInt:highScore]
+         forKey:@"highScore"];
     }
     [self updateLabels];
 }
-
 
 - (void)updateLabels
 {
@@ -201,10 +196,10 @@
     
     self.scoreLabel.text =
     [NSString stringWithFormat:@"Score: %d",score];
-        
+    
     self.livesLabel.text =
     [NSString stringWithFormat:@"Lives: %d",lives];
-
+    
     if (playing) {
         self.timeLeftLabel.hidden = NO;
         self.timeLeftLabel.text =
@@ -214,13 +209,13 @@
     }
 }
 
-- (IBAction)pressResetButton:(UIButton *)sender {
-    if (!playing) {
-        highScore = 0;
-        score = 0;
-        [[NSUserDefaults standardUserDefaults]
-         setObject:[NSNumber numberWithInt:highScore]
-         forKey:@"highScore"];
+- (void)countDown
+{
+    if (playing) {
+        timeLeft --;
+        if (timeLeft == 0) {
+            [self endGame];
+        }
     }
     [self updateLabels];
 }

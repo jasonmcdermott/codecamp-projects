@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EA4CAD7196509EC00479250 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EA4CAD6196509EC00479250 /* ball.png */; };
 		177C28F119637ED3001B9718 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 177C28F019637ED3001B9718 /* Foundation.framework */; };
 		177C28F319637ED3001B9718 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 177C28F219637ED3001B9718 /* CoreGraphics.framework */; };
 		177C28F519637ED3001B9718 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 177C28F419637ED3001B9718 /* UIKit.framework */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EA4CAD6196509EC00479250 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
 		177C28ED19637ED3001B9718 /* jason-simpleGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "jason-simpleGame.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		177C28F019637ED3001B9718 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		177C28F219637ED3001B9718 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -114,6 +116,7 @@
 		177C28F619637ED3001B9718 /* jason-simpleGame */ = {
 			isa = PBXGroup;
 			children = (
+				0EA4CAD6196509EC00479250 /* ball.png */,
 				177C28FF19637ED3001B9718 /* CCAppDelegate.h */,
 				177C290019637ED3001B9718 /* CCAppDelegate.m */,
 				177C290219637ED3001B9718 /* Main_iPhone.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				177C290719637ED3001B9718 /* Main_iPad.storyboard in Resources */,
+				0EA4CAD7196509EC00479250 /* ball.png in Resources */,
 				177C290C19637ED3001B9718 /* Images.xcassets in Resources */,
 				177C290419637ED3001B9718 /* Main_iPhone.storyboard in Resources */,
 				177C28FB19637ED3001B9718 /* InfoPlist.strings in Resources */,
@@ -471,6 +475,7 @@
 				177C292419637ED3001B9718 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		177C292519637ED3001B9718 /* Build configuration list for PBXNativeTarget "jason-simpleGameTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +484,7 @@
 				177C292719637ED3001B9718 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
